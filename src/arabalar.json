@@ -1,0 +1,80 @@
+{
+  "data" : [ {
+    "marka" : "BMW",
+    "model" : "320i",
+    "yil" : 2020,
+    "renk" : "Siyah",
+    "fiyat" : 1850000,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Mercedes",
+    "model" : "C200",
+    "yil" : 2021,
+    "renk" : "Beyaz",
+    "fiyat" : 2250000,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Audi",
+    "model" : "A4",
+    "yil" : 2019,
+    "renk" : "Gri",
+    "fiyat" : 1700000,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Toyota",
+    "model" : "Corolla",
+    "yil" : 2022,
+    "renk" : "Beyaz",
+    "fiyat" : 1250000,
+    "yakit" : "Hibrit"
+  }, {
+    "marka" : "Volkswagen",
+    "model" : "Golf",
+    "yil" : 2018,
+    "renk" : "Kırmızı",
+    "fiyat" : 1100000,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Tesla",
+    "model" : "Model 3",
+    "yil" : 2023,
+    "renk" : "Mavi",
+    "fiyat" : 2100000,
+    "yakit" : "Elektrik"
+  }, {
+    "marka" : "Honda",
+    "model" : "Civic",
+    "yil" : 2020,
+    "renk" : "Mavi",
+    "fiyat" : 1350000,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Ford",
+    "model" : "Focus",
+    "yil" : 2022,
+    "renk" : "Siyah",
+    "fiyat" : 1200000,
+    "yakit" : "Dizel"
+  }, {
+    "marka" : "Jeep",
+    "model" : "Suv",
+    "yil" : 2024,
+    "renk" : "Siyah",
+    "fiyat" : 2000000.0,
+    "yakit" : "Dizel"
+  }, {
+    "marka" : "Skoda",
+    "model" : "Karoq",
+    "yil" : 2025,
+    "renk" : "Yeşil",
+    "fiyat" : 2600000.0,
+    "yakit" : "Benzin"
+  }, {
+    "marka" : "Lamborghini",
+    "model" : "Urus",
+    "yil" : 2026,
+    "renk" : "Sarı",
+    "fiyat" : 5.0E8,
+    "yakit" : "Benzin"
+  } ]
+}
